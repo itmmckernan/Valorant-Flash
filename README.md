@@ -9,8 +9,7 @@ TODO:
 Detection system could use some work, code could be commented, things like that
 
 # Usage
-Capture stream with OBS, create a virtualcam, feed that into Opencv - note may need to use the plugin rather than the builtin due to compatability
-Current capture areas are calibrated off of a 1080p 16:9 OBS feed
-To set up a physical flasher, it just needs to react to a serial port message
-There is an example under example_flasher.ino
-
+1. Capture stream with OBS, create a virtualcam, feed that into Opencv - note may need to use the plugin rather than the builtin due to compatability
+2. Current capture areas are calibrated off of a 1080p 16:9 OBS feed
+3. To set up a physical flasher, it just needs to react to a serial port message
+4. There is an example under example_flasher.ino
