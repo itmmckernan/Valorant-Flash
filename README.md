@@ -13,3 +13,5 @@ Detection system could use some work, code could be commented, things like that
 2. Current capture areas are calibrated off of a 1080p 16:9 OBS feed
 3. To set up a physical flasher, it just needs to react to a serial port message
 4. There is an example under example_flasher.ino
+
+For the flasher itself I used a 100 watt LED but a sutable camera flash would probably work as well if not better
